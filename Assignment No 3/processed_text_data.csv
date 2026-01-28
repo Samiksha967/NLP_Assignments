@@ -1,0 +1,4 @@
+text,label,clean_text,no_stopwords,lemmatized,final_text,label_encoded
+AI is transforming the world!,tech,ai is transforming the world,"['ai', 'transforming', 'world']","['ai', 'transforming', 'world']",ai transforming world,0
+Machine learning is a part of AI.,tech,machine learning is a part of ai,"['machine', 'learning', 'part', 'ai']","['machine', 'learning', 'part', 'ai']",machine learning part ai,0
+Deep learning makes AI powerful.,tech,deep learning makes ai powerful,"['deep', 'learning', 'makes', 'ai', 'powerful']","['deep', 'learning', 'make', 'ai', 'powerful']",deep learning make ai powerful,0
